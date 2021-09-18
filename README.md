@@ -14,4 +14,4 @@ This is a Visual Studio 2019 MVC Web Application solution for .Net Framework 4.7
 - Hit run
 - The result is a string of the Alpabet in order for most letters that fit into the 5x5 matrix
 
-You can place a breakpoint on line 72 of ~\Contollers\HomeController.cs to follow allong
+You can place a breakpoint on line 72 of ~\Contollers\HomeController.cs to follow along
