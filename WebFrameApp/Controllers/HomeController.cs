@@ -42,6 +42,9 @@ namespace WebFrameApp.Controllers
                 result = new String(' ', 50),
                 arr = new List<List<string>>()
             };
+
+            // build the matrix so that if it was printed in a spiral fashion clockwise,
+            // the natural order of the alphabet would be displayed
             model.arr.Add(new List<string>() { "a", "b", "c", "d", "e" });
             model.arr.Add(new List<string>() { "p", "q", "r", "s", "f" });
             model.arr.Add(new List<string>() { "o", "x", "y", "t", "g" });
