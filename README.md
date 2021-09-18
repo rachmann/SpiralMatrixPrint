@@ -5,6 +5,8 @@ The concept in this version is to move the 'printing pointer' of x & y
 in the correct direction for each portion of the spiral
 with only a single concatenation statement.
 
+This is a Visual Studio 2019 MVC Web Application solution for .Net Framework 4.7.2 
+
 - Run the Web App. 
 - Click the 'Spiral' Menu item
 - The first run, on page load, just prints out the array rows.
