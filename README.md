@@ -1,4 +1,4 @@
-# SpiralMatrixPrint
+# SpiralMatrixPrint in C#
 A common test for developers as job candidates. Here's my take
 
 The concept in this version is to move the 'printing pointer' of x & y
