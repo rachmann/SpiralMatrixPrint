@@ -1,5 +1,5 @@
 # SpiralMatrixPrint
-A common test for candidates. Here's my take
+A common test for developers as job candidates. Here's my take
 
 The concept in this version is to move the 'printing pointer' of x & y
 in the correct direction for each portion of the spiral
