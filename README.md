@@ -10,6 +10,6 @@ with only a single concatenation statement.
 - The first run, on page load, just prints out the array rows.
 - Check the 'Ordered' checkbox
 - Hit run
-- The result is a a string of the Alpabet for most letters that fit into the 5x5 matrix
+- The result is a string of the Alpabet in order for most letters that fit into the 5x5 matrix
 
 You can place a breakpoint on line 72 of ~\Contollers\HomeController.cs to follow allong
